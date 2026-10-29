@@ -1,11 +1,8 @@
-# Group12-Social-Media-Website
-Đồ án cuối kỳ môn Phát triển ứng dụng Web của Nhóm 12 - IT0001 - K50 (started from Jan 2026)
-
 Bước 1: Sao chép Kho lưu trữ (Clone Repository):
 git clone [https://github.com/Hacker3707/Group12-Social-Media-Website.git]
 cd Group12-Social-Media-Website.
 
-Bước 2: Cài đặt composer tại đây 
+Bước 2: Cài đặt composer tại đây
 composer install
 
 Bước 3: Cấu hình biến môi trường:
